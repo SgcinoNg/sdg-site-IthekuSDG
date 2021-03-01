@@ -60,15 +60,15 @@ analytics:
 
 # Replace the email addresses below.
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: admin@xcapital.africa
+  suggestions: admin@xcapital.africa
+  functional: admin@xcapital.africa
 
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: eThekwini
+  adjective: eThekwini
 
 # Optionally set a title/body for the frontpage banner. The defaults below point to a standard
 # translation, but feel free to change it as needed.
@@ -83,17 +83,15 @@ frontpage_goals_grid:
 frontpage_cards:
   - title: frontpage.download_all
     include: components/download-all-data.html
-  - title: Lorem ipsum
+  - title: In The News
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      'https://www.africancentreforcities.net/unpacking-sdg-implementation-ethekwini/' 
     button_label: Read more
     button_link: https://example.com
-  - title: Nam vestibulum
+  - title: Upcoming Events 
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
-    button_label: Read more
+      http://www.durban.gov.za/City_Services/development_planning_management/environmental_planning_climate_protection/Projects/Documents/CommonwealthGamesRoadmap.pdf
+    button_label: Read more 
     button_link: https://example.com
 
 # Pages
